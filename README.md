@@ -23,9 +23,9 @@ Open WebUI is a self-hosted AI platform that supports Ollama and any OpenAI-comp
 | Connector policy | Allow, Ask, or Block per tool call, down to arguments. | Plugins and tool servers with approval flows. |
 | Isolated sandbox per session | Yes. One isolated sandbox per session, its own branch. | Open Terminal runs a terminal in chat; Terminals adds per-user isolation. |
 | Where the setup lives | One git repo you own, versioned and diffable. | In the app and its own database. |
-| Pricing | Self-host free; Team $40/seat/month plus usage. | Free with the original branding intact; a paid enterprise plan for white-labeling. |
+| Pricing | Self-host free; free plan 500 credits a month; $50 for 5,000. | Free with the original branding intact; a paid enterprise plan for white-labeling. |
 
-The Open WebUI column quotes Open WebUI's own pages. Its self-hosting, offline design, role-based access control, plugins, MCP and OpenAPI tool servers, Open Terminal, and its LDAP, SSO, and SCIM support come from [the Open WebUI repository](https://github.com/open-webui/open-webui). Its database, stateless architecture, and the free-versus-enterprise split come from [Open WebUI's enterprise documentation](https://docs.openwebui.com/enterprise/). The Kortix column quotes Kortix's own material: [Kortix on GitHub](https://github.com/kortix-ai/suna) and [Read the docs](https://kortix.com/docs). Kortix plan details (self-host free; Team $40/seat/month with 2,500 pooled credits per seat) come from [Kortix](https://kortix.com/pricing).
+The Open WebUI column quotes Open WebUI's own pages. Its self-hosting, offline design, role-based access control, plugins, MCP and OpenAPI tool servers, Open Terminal, and its LDAP, SSO, and SCIM support come from [the Open WebUI repository](https://github.com/open-webui/open-webui). Its database, stateless architecture, and the free-versus-enterprise split come from [Open WebUI's enterprise documentation](https://docs.openwebui.com/enterprise/). The Kortix column quotes Kortix's own material: [Kortix on GitHub](https://github.com/kortix-ai/suna) and [Read the docs](https://kortix.com/docs). Kortix plan details (self-host free; 500 credits a month on the $0 plan, 5,000 credits a month for $50) come from [Kortix](https://kortix.com/pricing).
 
 ## Read the docs
 
