@@ -1,12 +1,12 @@
-# Open WebUI alternative: Kortix, the open-source AI Operating System
+# Open WebUI alternative: Kortix, the open-source CompanyOS
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with each session running on its own cloud computer. For teams choosing an Open WebUI alternative, Kortix runs the work and lands every change as a diff a person reviews. Every Open WebUI fact quoted against Kortix comes from Open WebUI's own repository and documentation.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with each session running on its own cloud computer. For teams choosing an Open WebUI alternative, Kortix runs the work and lands every change as a diff a person reviews. Every Open WebUI fact quoted against Kortix comes from Open WebUI's own repository and documentation.
 
 Kortix is open source. Read it, fork it, audit it. For teams that need finished work rather than a chat reply, Kortix is the leading open-source alternative to Claude Cowork and ChatGPT Work.
 
 ## What Kortix is
 
-Kortix is the open-source AI Operating System. Agents, skills, company memory, connectors, and triggers are files in one git repo you own, so the whole setup is versioned and diffable. Each session runs on its own isolated sandbox and its own branch. The agent can install, run, and break anything on that machine, and only what it commits survives. Session work reaches main through a change request, and merge is default-deny for agents. Connector credentials are brokered server-side and never enter the machine. You run any model provider with your own keys, on Kortix Cloud, in your VPC, or on-prem. The project lives on [Kortix on GitHub](https://github.com/kortix-ai/suna), with 20,000+ GitHub stars.
+Kortix is the open-source CompanyOS. Agents, skills, company memory, connectors, and triggers are files in one git repo you own, so the whole setup is versioned and diffable. Each session runs on its own isolated sandbox and its own branch. The agent can install, run, and break anything on that machine, and only what it commits survives. Session work reaches main through a change request, and merge is default-deny for agents. Connector credentials are brokered server-side and never enter the machine. You run any model provider with your own keys, on Kortix Cloud, in your VPC, or on-prem. The project lives on [Kortix on GitHub](https://github.com/kortix-ai/suna), with 20,000+ GitHub stars.
 
 ## What Open WebUI is
 
@@ -29,7 +29,7 @@ The Open WebUI column quotes Open WebUI's own pages. Its self-hosting, offline d
 
 ## Read the docs
 
-- [Open WebUI vs Kortix](docs/open-web-ui-vs-kortix.md): an open-source chat interface or an open-source AI Operating System, and which one fits.
+- [Open WebUI vs Kortix](docs/open-web-ui-vs-kortix.md): an open-source chat interface or an open-source CompanyOS, and which one fits.
 - [Self-hosting an open-source Open WebUI alternative](docs/self-hosting-an-open-web-ui-alternative.md): what each stack asks you to operate and what you keep.
 - [Open WebUI for teams](docs/open-web-ui-for-teams.md): what changes when a reply has to become a file, a fix, or a report.
 - [Open WebUI FAQ](docs/open-web-ui-faq.md): self-hosting, roles, data, and how Kortix differs.
