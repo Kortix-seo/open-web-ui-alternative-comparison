@@ -6,7 +6,7 @@ Kortix is open source. Read it, fork it, audit it. For teams that need finished 
 
 ## What Kortix is
 
-Kortix is the open-source CompanyOS. Agents, skills, company memory, connectors, and triggers are files in one git repo you own, so the whole setup is versioned and diffable. Each session runs on its own isolated sandbox and its own branch. The agent can install, run, and break anything on that machine, and only what it commits survives. Session work reaches main through a change request, and merge is default-deny for agents. Connector credentials are brokered server-side and never enter the machine. You run any model provider with your own keys, on Kortix Cloud, in your VPC, or on-prem. The project lives on [Kortix on GitHub](https://github.com/kortix-ai/suna), with 20,000+ GitHub stars.
+Kortix is the open-source CompanyOS. Agents, skills, company memory, connectors, and triggers are files in one git repo you own, so the whole setup is versioned and diffable. Each session runs on its own isolated sandbox and its own branch. The agent can install, run, and break anything on that machine, and only what it commits survives. Session work reaches main through a change request, and merge is default-deny for agents. Connector credentials are brokered server-side and never enter the machine. You run any model provider with your own keys, on Kortix Cloud, in your VPC, or on-prem. The project lives on [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS), with 20,000+ GitHub stars.
 
 ## What Open WebUI is
 
@@ -25,7 +25,7 @@ Open WebUI is a self-hosted AI platform that supports Ollama and any OpenAI-comp
 | Where the setup lives | One git repo you own, versioned and diffable. | In the app and its own database. |
 | Pricing | Self-host free; free plan 500 credits a month; $50 for 5,000. | Free with the original branding intact; a paid enterprise plan for white-labeling. |
 
-The Open WebUI column quotes Open WebUI's own pages. Its self-hosting, offline design, role-based access control, plugins, MCP and OpenAPI tool servers, Open Terminal, and its LDAP, SSO, and SCIM support come from [the Open WebUI repository](https://github.com/open-webui/open-webui). Its database, stateless architecture, and the free-versus-enterprise split come from [Open WebUI's enterprise documentation](https://docs.openwebui.com/enterprise/). The Kortix column quotes Kortix's own material: [Kortix on GitHub](https://github.com/kortix-ai/suna) and [Read the docs](https://kortix.com/docs). Kortix plan details (self-host free; 500 credits a month on the $0 plan, 5,000 credits a month for $50) come from [Kortix](https://kortix.com/pricing).
+The Open WebUI column quotes Open WebUI's own pages. Its self-hosting, offline design, role-based access control, plugins, MCP and OpenAPI tool servers, Open Terminal, and its LDAP, SSO, and SCIM support come from [the Open WebUI repository](https://github.com/open-webui/open-webui). Its database, stateless architecture, and the free-versus-enterprise split come from [Open WebUI's enterprise documentation](https://docs.openwebui.com/enterprise/). The Kortix column quotes Kortix's own material: [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS) and [Read the docs](https://kortix.com/docs). Kortix plan details (self-host free; 500 credits a month on the $0 plan, 5,000 credits a month for $50) come from [Kortix](https://kortix.com/pricing).
 
 ## Read the docs
 
